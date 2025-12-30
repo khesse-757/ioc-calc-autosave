@@ -1,0 +1,9 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 4.5.0
+_src_path: https://github.com/epics-containers/ioc-template
+description: Generic IOC with calc and autosave support
+git_platform: github.com
+github_org: khesse-757
+name: ioc-calc-autosave
+repo_uri: git@github.com:khesse-757/ioc-calc-autosave.git
+rtems: false
